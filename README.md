@@ -1,5 +1,4 @@
 # TraceBack
-
 TraceBack is a campus lost-and-found application that helps connect lost reports with found items, lets finders review owner claims, and provides an auditable admin approval flow.
 
 ## Architecture
